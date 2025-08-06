@@ -16,7 +16,7 @@ npm install
 
 Add .env file to project root folder and add these content
 ```text
-NEXT_PUBLIC_API_BASE_URL='http://127.0.0.1:8000'
+NEXT_PUBLIC_API_BASE_URL = http://127.0.0.1:8000
 ```
 
 ## Run the project
